@@ -1,0 +1,42 @@
+#header {
+  display: flex;
+  justify-content: center;
+  background-color: #fff2d5;
+  margin: 25px;
+}
+#heading {
+  display: inline-block;
+  color: #707070;
+  font-family: Helvetica Neue;
+}
+
+#form {
+  display: flex;
+  height: 150px;
+  width: 300px;
+  border: 2px solid black;
+  justify-content: space-around;
+}
+
+
+
+label {
+  font-size: 11px;
+}
+
+input{
+  
+}
+
+#main-box {
+  display: flex;
+  justify-content: center;
+  border: 3px solid red;
+}
+li {
+  list-style-type: none;
+}
+
+.list-items {
+  border: 3px solid black;
+}
